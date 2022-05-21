@@ -1,0 +1,32 @@
+@startuml
+class PMTestObject{
+    +MakeSureAllParaExisted()
+}
+class PMDataSourceManagement{
+    +SetConstrain():string
+  	-GetSystemConfigStageLimit():List<object>
+}
+enum PMTestItemType{
+    +ColumnAptOffsetbyGLV:PMTestItemType
+}
+enum PMParameterName{
+    +CountsStep
+	+IterationLimit
+	+ScanDelayTime
+	+ColumnApertureOffset
+} 
+class EquipmentPerformanceMonitor{
+    +PerformEpmItem(PMTestObject TestObj, IEpmOperational epmOperational, ref List<PMSubResult> results):HRESULT
+    +CalculateColumnAptOffest(double ColAptX, double ColAptY, double GreylevelMean, int CountStep):double
+} 
+class PMSubResult{
+}
+PMTestItemType <--PMTestObject
+PMParameterName <-- PMTestObject
+PMTestItemType <--PMDataSourceManagement  
+PMTestItemType <--EquipmentPerformanceMonitor
+PMParameterName <--PMDataSourceManagement  
+PMParameterName <--EquipmentPerformanceMonitor
+PMSubResult<--EquipmentPerformanceMonitor
+PMTestObject<..EquipmentPerformanceMonitor
+@enduml

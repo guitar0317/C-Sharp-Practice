@@ -1,0 +1,16 @@
+@startuml
+    actor "Client" as c
+    boundary "EliteGUI" as e
+    c ->e:Request EPM Module
+    control "EPM Module" as pm
+    e -> pm:Open EPM UI
+    pm -> PMTestItemType:Load test plan itme
+    PMTestItemType -> PMTestObject :MakeSureAllParaExisted():Load item parameters
+    PMTestObject -> PMDataSourceManagement:SetConstrain():Set constrain of parameters
+    c <-- pm:Display 
+    c -> pm:Run test item
+    pm -> EquipmentPerformanceMonitor : CalculateColumnAptOffest():calculate offset of position of between column aperture by grey level mean
+    EquipmentPerformanceMonitor -> PMSubResult:Put result information on list structure
+    pm <-- EquipmentPerformanceMonitor:Return result information to UI
+    c <-- pm:Display result to Client
+    @enduml

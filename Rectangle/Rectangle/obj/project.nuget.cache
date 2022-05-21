@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rpYJ5cuqe1wBsGHvQ9R9BFSmmya0mn0jKYjI0jbP/G/qZ/Qq+CaX0TYESlpD4av1p22rX9uLcMSjni0STs8ZrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Localdata\\C#\\Rectangle\\Rectangle\\Rectangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shihchen\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\shihchen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\shihchen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\shihchen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
