@@ -1,0 +1,15 @@
+C:\Localdata\C#\Thread1\bin\Debug\net6.0\Thread1.exe
+C:\Localdata\C#\Thread1\bin\Debug\net6.0\Thread1.deps.json
+C:\Localdata\C#\Thread1\bin\Debug\net6.0\Thread1.runtimeconfig.json
+C:\Localdata\C#\Thread1\bin\Debug\net6.0\Thread1.dll
+C:\Localdata\C#\Thread1\bin\Debug\net6.0\ref\Thread1.dll
+C:\Localdata\C#\Thread1\bin\Debug\net6.0\Thread1.pdb
+C:\Localdata\C#\Thread1\obj\Debug\net6.0\Thread1.csproj.AssemblyReference.cache
+C:\Localdata\C#\Thread1\obj\Debug\net6.0\Thread1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localdata\C#\Thread1\obj\Debug\net6.0\Thread1.AssemblyInfoInputs.cache
+C:\Localdata\C#\Thread1\obj\Debug\net6.0\Thread1.AssemblyInfo.cs
+C:\Localdata\C#\Thread1\obj\Debug\net6.0\Thread1.csproj.CoreCompileInputs.cache
+C:\Localdata\C#\Thread1\obj\Debug\net6.0\Thread1.dll
+C:\Localdata\C#\Thread1\obj\Debug\net6.0\ref\Thread1.dll
+C:\Localdata\C#\Thread1\obj\Debug\net6.0\Thread1.pdb
+C:\Localdata\C#\Thread1\obj\Debug\net6.0\Thread1.genruntimeconfig.cache
