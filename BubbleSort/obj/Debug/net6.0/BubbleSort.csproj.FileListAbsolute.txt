@@ -1,0 +1,15 @@
+C:\Localdata\C#\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+C:\Localdata\C#\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+C:\Localdata\C#\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+C:\Localdata\C#\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+C:\Localdata\C#\BubbleSort\bin\Debug\net6.0\ref\BubbleSort.dll
+C:\Localdata\C#\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+C:\Localdata\C#\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+C:\Localdata\C#\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localdata\C#\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Localdata\C#\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+C:\Localdata\C#\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Localdata\C#\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+C:\Localdata\C#\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
+C:\Localdata\C#\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+C:\Localdata\C#\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache

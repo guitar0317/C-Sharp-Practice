@@ -13,7 +13,7 @@ for(int i=0; i<500 ;i++){
     };
     ThreadPool.QueueUserWorkItem(ThreadClass.MyMethod23, AllWaitHandles[0]);
     ThreadPool.QueueUserWorkItem(ThreadClass.MyMethod24, AllWaitHandles[1]);
-    //WaitHandle.WaitAll(AllWaitHandles);
+    WaitHandle.WaitAll(AllWaitHandles);
     Console.WriteLine();
     Console.WriteLine($"MyMethod23 的執行結果為 {ThreadClass.Result1}");
     Console.WriteLine($"MyMethod24 的執行結果為 {ThreadClass.Result2}");
