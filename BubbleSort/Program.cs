@@ -16,7 +16,7 @@
                     Swap(nums, i_run, i_run+1); 
                 }
             }*/
-             int len = nums.Length - round;
+             int len = nums.Length - round; //imporve speed
              for(int i_run= 1; i_run < len; i_run++){
                 if(nums[i_run-1] > nums[i_run]){
                     Swap(nums, i_run-1, i_run); 
