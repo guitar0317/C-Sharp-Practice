@@ -1,0 +1,15 @@
+C:\Localdata\C#\FileParsingTimeOut\bin\Debug\net6.0\FileParsingTimeOut.exe
+C:\Localdata\C#\FileParsingTimeOut\bin\Debug\net6.0\FileParsingTimeOut.deps.json
+C:\Localdata\C#\FileParsingTimeOut\bin\Debug\net6.0\FileParsingTimeOut.runtimeconfig.json
+C:\Localdata\C#\FileParsingTimeOut\bin\Debug\net6.0\FileParsingTimeOut.dll
+C:\Localdata\C#\FileParsingTimeOut\bin\Debug\net6.0\ref\FileParsingTimeOut.dll
+C:\Localdata\C#\FileParsingTimeOut\bin\Debug\net6.0\FileParsingTimeOut.pdb
+C:\Localdata\C#\FileParsingTimeOut\obj\Debug\net6.0\FileParsingTimeOut.csproj.AssemblyReference.cache
+C:\Localdata\C#\FileParsingTimeOut\obj\Debug\net6.0\FileParsingTimeOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localdata\C#\FileParsingTimeOut\obj\Debug\net6.0\FileParsingTimeOut.AssemblyInfoInputs.cache
+C:\Localdata\C#\FileParsingTimeOut\obj\Debug\net6.0\FileParsingTimeOut.AssemblyInfo.cs
+C:\Localdata\C#\FileParsingTimeOut\obj\Debug\net6.0\FileParsingTimeOut.csproj.CoreCompileInputs.cache
+C:\Localdata\C#\FileParsingTimeOut\obj\Debug\net6.0\FileParsingTimeOut.dll
+C:\Localdata\C#\FileParsingTimeOut\obj\Debug\net6.0\ref\FileParsingTimeOut.dll
+C:\Localdata\C#\FileParsingTimeOut\obj\Debug\net6.0\FileParsingTimeOut.pdb
+C:\Localdata\C#\FileParsingTimeOut\obj\Debug\net6.0\FileParsingTimeOut.genruntimeconfig.cache
