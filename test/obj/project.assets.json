@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Localdata\\C#\\LinkedList\\LinkedList.csproj",
-      "projectName": "LinkedList",
-      "projectPath": "C:\\Localdata\\C#\\LinkedList\\LinkedList.csproj",
+      "projectUniqueName": "C:\\Localdata\\C#\\test\\test.csproj",
+      "projectName": "test",
+      "projectPath": "C:\\Localdata\\C#\\test\\test.csproj",
       "packagesPath": "C:\\Users\\shihchen\\.nuget\\packages\\",
-      "outputPath": "C:\\Localdata\\C#\\LinkedList\\obj\\",
+      "outputPath": "C:\\Localdata\\C#\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shihchen\\AppData\\Roaming\\NuGet\\NuGet.Config"
