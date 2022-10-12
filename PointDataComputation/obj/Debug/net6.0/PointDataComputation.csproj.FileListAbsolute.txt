@@ -1,0 +1,15 @@
+C:\Localdata\C#\PointDataComputation\bin\Debug\net6.0\PointDataComputation.exe
+C:\Localdata\C#\PointDataComputation\bin\Debug\net6.0\PointDataComputation.deps.json
+C:\Localdata\C#\PointDataComputation\bin\Debug\net6.0\PointDataComputation.runtimeconfig.json
+C:\Localdata\C#\PointDataComputation\bin\Debug\net6.0\PointDataComputation.dll
+C:\Localdata\C#\PointDataComputation\bin\Debug\net6.0\ref\PointDataComputation.dll
+C:\Localdata\C#\PointDataComputation\bin\Debug\net6.0\PointDataComputation.pdb
+C:\Localdata\C#\PointDataComputation\obj\Debug\net6.0\PointDataComputation.csproj.AssemblyReference.cache
+C:\Localdata\C#\PointDataComputation\obj\Debug\net6.0\PointDataComputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Localdata\C#\PointDataComputation\obj\Debug\net6.0\PointDataComputation.AssemblyInfoInputs.cache
+C:\Localdata\C#\PointDataComputation\obj\Debug\net6.0\PointDataComputation.AssemblyInfo.cs
+C:\Localdata\C#\PointDataComputation\obj\Debug\net6.0\PointDataComputation.csproj.CoreCompileInputs.cache
+C:\Localdata\C#\PointDataComputation\obj\Debug\net6.0\PointDataComputation.dll
+C:\Localdata\C#\PointDataComputation\obj\Debug\net6.0\ref\PointDataComputation.dll
+C:\Localdata\C#\PointDataComputation\obj\Debug\net6.0\PointDataComputation.pdb
+C:\Localdata\C#\PointDataComputation\obj\Debug\net6.0\PointDataComputation.genruntimeconfig.cache
