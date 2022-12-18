@@ -1,0 +1,15 @@
+C:\Code\Csharp\fin\bin\Debug\net7.0\fin.exe
+C:\Code\Csharp\fin\bin\Debug\net7.0\fin.deps.json
+C:\Code\Csharp\fin\bin\Debug\net7.0\fin.runtimeconfig.json
+C:\Code\Csharp\fin\bin\Debug\net7.0\fin.dll
+C:\Code\Csharp\fin\bin\Debug\net7.0\fin.pdb
+C:\Code\Csharp\fin\obj\Debug\net7.0\fin.csproj.AssemblyReference.cache
+C:\Code\Csharp\fin\obj\Debug\net7.0\fin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Csharp\fin\obj\Debug\net7.0\fin.AssemblyInfoInputs.cache
+C:\Code\Csharp\fin\obj\Debug\net7.0\fin.AssemblyInfo.cs
+C:\Code\Csharp\fin\obj\Debug\net7.0\fin.csproj.CoreCompileInputs.cache
+C:\Code\Csharp\fin\obj\Debug\net7.0\fin.dll
+C:\Code\Csharp\fin\obj\Debug\net7.0\refint\fin.dll
+C:\Code\Csharp\fin\obj\Debug\net7.0\fin.pdb
+C:\Code\Csharp\fin\obj\Debug\net7.0\fin.genruntimeconfig.cache
+C:\Code\Csharp\fin\obj\Debug\net7.0\ref\fin.dll

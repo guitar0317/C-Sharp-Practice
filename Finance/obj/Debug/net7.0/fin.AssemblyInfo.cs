@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Rectangle")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("fin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Rectangle")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Rectangle")]
+[assembly: System.Reflection.AssemblyProductAttribute("fin")]
+[assembly: System.Reflection.AssemblyTitleAttribute("fin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 類別產生。
